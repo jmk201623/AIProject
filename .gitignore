@@ -65,3 +65,7 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.log
+Saved/Config/Windows/Engine.ini
